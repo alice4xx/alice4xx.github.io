@@ -1,159 +1,72 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kyoi]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://alice4xx.github.io</link><generator>RSS for Node</generator><lastBuildDate>Sat, 10 Aug 2019 13:21:48 GMT</lastBuildDate><item><title><![CDATA[The day 3.]]></title><description><![CDATA[어머 금요일이라면서요..?]]></description><link>https://alice4xx.github.io/posts/thethird/</link><guid isPermaLink="false">https://alice4xx.github.io/posts/thethird/</guid><pubDate>Fri, 09 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. &lt;/p&gt;
-&lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis.&lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/732bbf5c4fdcc63ac39e10f8f82a3435/98235/image-3.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHflc0iMP/EABoQAQADAAMAAAAAAAAAAAAAAAIAARIDITL/2gAIAQEAAQUCazPUfISkq0O4hq//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAgMAAAAAAAAAAAAAAAAAARARIVFh/9oACAEBAAY/AumSqLE9OP/EABwQAAICAgMAAAAAAAAAAAAAAAABESExQVFxsf/aAAgBAQABPyFCxkW2cOezInZKcmNU2eiZHqj/2gAMAwEAAgADAAAAEM8v/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERIf/aAAgBAwEBPxBRGH//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8QdZ//xAAbEAEBAQADAQEAAAAAAAAAAAABEQAhMVFBof/aAAgBAQABPxA0CnR5gPVEC8GfmdQoKlzWLWanRm+ctDjjEKA108Xf/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/732bbf5c4fdcc63ac39e10f8f82a3435/01472/image-3.webp 240w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/222bd/image-3.webp 480w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/620b9/image-3.webp 960w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/28063/image-3.webp 1440w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/44134/image-3.webp 1800w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/732bbf5c4fdcc63ac39e10f8f82a3435/3bc27/image-3.jpg 240w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/98431/image-3.jpg 480w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/b3ee8/image-3.jpg 960w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/b97fe/image-3.jpg 1440w,
-/static/732bbf5c4fdcc63ac39e10f8f82a3435/98235/image-3.jpg 1800w&quot;
-          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/732bbf5c4fdcc63ac39e10f8f82a3435/b3ee8/image-3.jpg&quot;
-          alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-          title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;header-level-2&quot;&gt;&lt;a href=&quot;#header-level-2&quot; aria-label=&quot;header level 2 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Header Level 2&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kyoi]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://alice4xx.github.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 12 Aug 2019 11:50:02 GMT</lastBuildDate><item><title><![CDATA[The day 3.]]></title><description><![CDATA[어머 금요일이라면서요..?]]></description><link>https://alice4xx.github.io/posts/thethird/</link><guid isPermaLink="false">https://alice4xx.github.io/posts/thethird/</guid><pubDate>Fri, 09 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;이게 오늘이 어제 같고 어제가 그제같고 내일이 아마 월요일 같은 기분이랄까요.&lt;/p&gt;
+&lt;p&gt;세상 시간이 이렇게 금방 지날 수가 없는 데 이상하게 체감은 한달이 지난 것 같은..&lt;/p&gt;
+&lt;p&gt;빨리빨리 익숙해졌으면 좋겠는 데…:(&lt;/p&gt;
+&lt;h2 id=&quot;css--cascading-style-sheets&quot;&gt;&lt;a href=&quot;#css--cascading-style-sheets&quot; aria-label=&quot;css  cascading style sheets permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[CSS] ; Cascading Style Sheets&lt;/h2&gt;
+&lt;p&gt;CSS란 HTML 태그들에 디자인을 입혀주는 것. 언어라고 볼 수 없고 HTML을 이쁘게 이쁘게 꾸며주는 것.&lt;/p&gt;
+&lt;p&gt;가령, 폰트 사이즈를 바꿀 수 있고 배경색을 입힐 수도 있고 box를 만들 수도 레이아웃을 짤 수도 있는..&lt;/p&gt;
+&lt;p&gt;css를 작성한 후 HTML에 적용되도록 반영 하는 방법은 3가지가 있습니다.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;인라인 스타일
+태그 style 속성에 직접 작성.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. &lt;/p&gt;
-&lt;figure&gt;
-	&lt;blockquote&gt;
-		&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.&lt;/p&gt;
-		&lt;footer&gt;
-			&lt;cite&gt;— Aliquam tincidunt mauris eu risus.&lt;/cite&gt;
-		&lt;/footer&gt;
-	&lt;/blockquote&gt;
-&lt;/figure&gt;
-&lt;h3 id=&quot;header-level-3&quot;&gt;&lt;a href=&quot;#header-level-3&quot; aria-label=&quot;header level 3 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Header Level 3&lt;/h3&gt;
+&lt;p&gt;따옴표 안의 “color:red;“부분
+편한 대신에 너무 길어지면 가독성이 떨어짐.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;h1 style=&amp;quot;color: red;&amp;quot;&amp;gt;FRONTEND 101&amp;lt;/h1&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
-&lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;li&gt;style 태그
+html 파일 내에 css를 작성할 수 있는 방법. style태그 사이에 css문법을 사용해서 꾸미는 법.
+HTML 파일에 작성하면서 css도 작성할 수 있어서 편하고 빠르지만, 이 역시도 유지 보수가 힘둘.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;css&quot;&gt;&lt;pre class=&quot;language-css&quot;&gt;&lt;code class=&quot;language-css&quot;&gt;&lt;span class=&quot;token selector&quot;&gt;#header h1 a&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;display&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; block&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 300px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token property&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; 80px&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/cpu-71ba9417da76c390c80ad2f49c9c227d.svg&quot; alt=&quot;Test SVG&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The day 2.]]></title><description><![CDATA[휴]]></description><link>https://alice4xx.github.io/posts/thesecond/</link><guid isPermaLink="false">https://alice4xx.github.io/posts/thesecond/</guid><pubDate>Thu, 08 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;아니 나라는 사람은 이 얼마나 안일한가.. &lt;/p&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 682px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/2e80bcf5cb2222e26f0e89d032468f97/ccc82/sad.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 76.39296187683286%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAIBAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAP/aAAwDAQACEAMQAAABraVDGAb/xAAZEAEAAgMAAAAAAAAAAAAAAAADAAIBBBH/2gAIAQEAAQUCqBxxIz5K7IYy+0Vi7P/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB0QAAEEAgMAAAAAAAAAAAAAAAEAAhARIXEDQpH/2gAIAQEABj8CyxWOLO47eIhhN6j/xAAbEAEBAQACAwAAAAAAAAAAAAABABExQVFxkf/aAAgBAQABPyFnD71kRHpq+2IIrALK8zF//9oADAMBAAIAAwAAABDUP//EABYRAAMAAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxCFf//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EKf/xAAdEAACAgIDAQAAAAAAAAAAAAABEQAhMZFBYXHx/9oACAEBAAE/ECiJADJYtyg5AxAfJHE6oUrVr6gU5oUsOw3PfU//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-        &lt;source
-          srcset=&quot;/static/2e80bcf5cb2222e26f0e89d032468f97/01472/sad.webp 240w,
-/static/2e80bcf5cb2222e26f0e89d032468f97/222bd/sad.webp 480w,
-/static/2e80bcf5cb2222e26f0e89d032468f97/680b8/sad.webp 682w&quot;
-          sizes=&quot;(max-width: 682px) 100vw, 682px&quot;
-          type=&quot;image/webp&quot;
-        /&gt;
-        &lt;source
-          srcset=&quot;/static/2e80bcf5cb2222e26f0e89d032468f97/3bc27/sad.jpg 240w,
-/static/2e80bcf5cb2222e26f0e89d032468f97/98431/sad.jpg 480w,
-/static/2e80bcf5cb2222e26f0e89d032468f97/ccc82/sad.jpg 682w&quot;
-          sizes=&quot;(max-width: 682px) 100vw, 682px&quot;
-          type=&quot;image/jpeg&quot;
-        /&gt;
-        &lt;img
-          class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/2e80bcf5cb2222e26f0e89d032468f97/ccc82/sad.jpg&quot;
-          alt=&quot;sad.jpg&quot;
-          title=&quot;sad.jpg&quot;
-        /&gt;
-      &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;h2 id=&quot;css--hypertext-mark-up-language&quot;&gt;&lt;a href=&quot;#css--hypertext-mark-up-language&quot; aria-label=&quot;css  hypertext mark up language permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[css] ; HYPERTEXT MARK UP LANGUAGE.&lt;/h2&gt;
-&lt;p&gt;웹페이지를 만들기 위한 언어. &lt;/p&gt;
-&lt;p&gt;웹페이지의 구조이자 구성요소, 그리고 확장자 명(.html)입니다.&lt;/p&gt;
-&lt;p&gt;브라우저는 HTML파일을 가지고 뭘 어떻게 그려주면 되는지 파악한 후에 웹 페이지를 생성..&lt;/p&gt;
-&lt;p&gt;큰 틀로, 아래처럼 구성 (꼭 머리 가슴 배st)&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;html 파일의 구조는 항상 아래와 같습니다.&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;
-==&amp;gt;HTML 파일이라면 제일 첫 줄에 위치하여 html version.이 몇인지 알려주는 역할.(tag아님!)
-
-&amp;lt;html&amp;gt;
-==&amp;gt;해당 tag만나면 html의 시작을 인지하고 요소를 그릴 준비를 함
-
- &amp;lt;head&amp;gt;
-==&amp;gt; html태그 다음에는 항상 head태그.
-가령, 한글을 사용한다던가 화면에 적절한 비율로 이쁘게 보이게 한다던가 브라우져 탭에 제목을 넣는다는 등.. 
-
- &amp;lt;body&amp;gt;
-==&amp;gt; 화면에 보여져야할, 보여지고 싶은 레이아웃대로 각종 태그들을 사용하는 부분.
-tag는 &amp;lt;태그&amp;gt; 본문 &amp;lt;/태그&amp;gt;로 구분
-tag마다 고유 기능이 있고 콘텐츠 내용과 상황에 맞게 적절하게 붙여주어야...
-
-
- &amp;lt;/body&amp;gt;
-
- &amp;lt;/head&amp;gt;
-
- &amp;lt;/html&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;tag + 속성(attribute) ==&gt; 1tag에 여러개 붙임 가능&lt;/p&gt;
-&lt;p&gt;가령, &lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;div class 혹은 id 혹은 href 혹은 src=&amp;quot;OOO&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;!중요tag!&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;a&amp;gt; =&amp;gt; 클릭하면 화면이동. 링크등을 써주어서 이동 할때.
-&amp;lt;p&amp;gt; =&amp;gt; short for &amp;#39;p&amp;#39;(aragraph). 문단. 줄바꿈 가능!
-&amp;lt;h1~h5&amp;gt; =&amp;gt; 숫자가 커질수록 크기는 작아짐
-&amp;lt;header&amp;gt;
-&amp;lt;footer&amp;gt; 
-&amp;lt; div&amp;gt; ★★one pick★★ 수준 ¯ࡇ¯ 
-=&amp;gt; short for &amp;#39;d&amp;#39;(ivision). 말 그대로 디비젼별로 묶음, 레이아웃 분리가능, 그리고 각 div마다 class나 id라는 속성 부여해서 css로 꾸밀수 있!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The day 1.]]></title><description><![CDATA[8.7 시작입니다.]]></description><link>https://alice4xx.github.io/posts/thefirst/</link><guid isPermaLink="false">https://alice4xx.github.io/posts/thefirst/</guid><pubDate>Wed, 07 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;윈도우로 첫 블로그 작성 ;_ ; 하.. 나의 컴퓨터야 화이팅.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;style&amp;gt;
+ h2 {
+  color: #408090;
+ }
+&amp;lt;/style&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;css 파일에 작성:
+앞의 두 번은 html 파일에 직접 디자인을 했다면, 3번의 방법은 html 파일과 분리하여 css파일에 따로 작성하는 방법.
+가독성 및 유지보수에 좋지만 css파일이 쓰였는지 브라우저에 알려야 하는 링크를 해주는 태그 추가해야함.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;link href=&amp;quot;index.css&amp;quot; rel=&amp;quot;stylesheet&amp;quot; type=&amp;quot;text/css&amp;quot; /&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/media/css.png&quot; alt=&quot;css.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;*선택자(selector)
+rule set의 맨 앞에 있는 HTML 요소 이름. 이것은 꾸밀 요소(들)을 선택.&lt;/p&gt;
+&lt;p&gt;*선언
+color: red와 같은 단일 규칙; 여러분이 꾸미기 원하는 요소의 특성을 명시.&lt;/p&gt;
+&lt;p&gt;*특성
+주어진 HTML 요소를 꾸밀 수 있는 방법. CSS에서, rule 내에서 영향을 줄 특성을 선택.&lt;/p&gt;
+&lt;p&gt;*특성 값
+특성의 오른쪽에, 콜론 뒤에, 주어진 특성을 위한 많은 가능한 결과중 하나를 선택하기 위해 특성 값.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[The day 2.]]></title><description><![CDATA[휴]]></description><link>https://alice4xx.github.io/posts/thesecond/</link><guid isPermaLink="false">https://alice4xx.github.io/posts/thesecond/</guid><pubDate>Thu, 08 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;아니 나라는 사람은 이 얼마나 안일한가.. &lt;/p&gt;
+&lt;p&gt;이렇게 무지하게 이 세계에 뛰어들다니.. 세상 막막…;)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/media/sadpepe.jpg&quot; alt=&quot;sadpepe.jpg&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;html-attributes속성&quot;&gt;&lt;a href=&quot;#html-attributes%EC%86%8D%EC%84%B1&quot; aria-label=&quot;html attributes속성 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[HTML] Attributes(속성)&lt;/h2&gt;
+&lt;p&gt;=&gt;속성은 사용자가 원하는 기준에 맞도록 요소를 설정 혹은 다양한 방식으로 요소의 동작을 조절하기 위한 값.
+예를 들면, &lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;a href=&amp;quot;https://wecode.com&amp;quot;&amp;gt;위코드로 이동&amp;lt;/a&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;a ; tag// href ; attribute(속성) // &lt;a href=&quot;https://wecode.com&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://wecode.com&lt;/a&gt; 는 href에 대한 attribute 값이고  “위코드로 이동”은 본문(내용).&lt;/p&gt;
+&lt;p&gt;!중요 속성!&lt;/p&gt;
+&lt;p&gt;★id★
+=&gt;태그에 이름 부여함. 말 그대로 id라고 보면 됨. 하기 예시에 나오는 “prifile”은 적어도 해당 페이지 내에서는
+절대 사용할 수 없음…
+그래서 매우 특정 요소에만 무언가를 적용할때만 사용 가능함.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;div id=&amp;quot;profile&amp;quot;&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;★★class★★ one pick:)
+class
+=&gt;얘도 태그에 이름을 부여하지만 중복이 가능! 한번에 여러개 적용할 때 사용 가능..&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;div class=&amp;quot;content-wrap&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;p&amp;gt; class=&amp;quot;content-wrap&amp;quot;&amp;gt;&amp;lt;/p&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;속성 추가하기
+하나의 태그에 2개 이상의 속성을 부여할 수 있음.
+만약, 여러 속성을 주고 싶으면 한칸 띄워서 추가 가능. 속성의 순서는 상관없이 막 써도 됨.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;div id=&amp;quot;profile&amp;quot; class=&amp;quot;content-wrap&amp;quot;&amp;gt;&amp;lt;/div&amp;gt;
+&amp;lt;img src=&amp;quot;./hi.png&amp;quot; alt=&amp;quot;내사진&amp;quot; &amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The day 1.]]></title><description><![CDATA[8.7 시작입니다.]]></description><link>https://alice4xx.github.io/posts/thefirst/</link><guid isPermaLink="false">https://alice4xx.github.io/posts/thefirst/</guid><pubDate>Wed, 07 Aug 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;윈도우로 첫 블로그 작성 ;_ ; 하.. 나의 컴퓨터야 화이팅.&lt;/p&gt;
 &lt;p&gt;이것은 철저히 하늘에서 위코드로 떨어진 한 사람이 머릿속에 어떻게든 우겨 넣으려는 노력에서 만들어지게 되었습니다;_ ;&lt;/p&gt;
 &lt;h2 id=&quot;html--hypertext-mark-up-language&quot;&gt;&lt;a href=&quot;#html--hypertext-mark-up-language&quot; aria-label=&quot;html  hypertext mark up language permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;[HTML] ; HYPERTEXT MARK UP LANGUAGE.&lt;/h2&gt;
 &lt;p&gt;웹페이지를 만들기 위한 언어. &lt;/p&gt;
 &lt;p&gt;웹페이지의 구조이자 구성요소, 그리고 확장자 명(.html)입니다.&lt;/p&gt;
 &lt;p&gt;브라우저는 HTML파일을 가지고 뭘 어떻게 그려주면 되는지 파악한 후에 웹 페이지를 생성..&lt;/p&gt;
 &lt;p&gt;큰 틀로, 아래처럼 구성 (꼭 머리 가슴 배st)&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;html 파일의 구조는 항상 아래와 같습니다.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;html 파일의 구조는 항상 아래와 같…&lt;/em&gt;&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;!DOCTYPE html&amp;gt;
 ==&amp;gt;HTML 파일이라면 제일 첫 줄에 위치하여 html version.이 몇인지 알려주는 역할.(tag아님!)
 
@@ -185,4 +98,4 @@ tag마다 고유 기능이 있고 콘텐츠 내용과 상황에 맞게 적절하
 &amp;lt;header&amp;gt;
 &amp;lt;footer&amp;gt; 
 &amp;lt; div&amp;gt; ★★one pick★★ 수준 ¯ࡇ¯ 
-=&amp;gt; short for &amp;#39;d&amp;#39;(ivision). 말 그대로 디비젼별로 묶음, 레이아웃 분리가능, 그리고 각 div마다 class나 id라는 속성 부여해서 css로 꾸밀수 있!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item></channel></rss>
+=&amp;gt; short for &amp;#39;d&amp;#39;(ivision). 말 그대로 디비젼별로 묶음, 레이아웃 분리가능, 그리고 각 div마다 class나 id라는 속성 부여해서 css로 꾸밀수 있!&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[The day 5.]]></title><description><![CDATA[오늘은 말복이었습니다]]></description><link>https://alice4xx.github.io/posts/thefifth/</link><guid isPermaLink="false">https://alice4xx.github.io/posts/thefifth/</guid><pubDate>Invalid Date</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[The day 4.]]></title><description><![CDATA[이게 요일이 점점 무의미 해지네요^^]]></description><link>https://alice4xx.github.io/posts/thefourth/</link><guid isPermaLink="false">https://alice4xx.github.io/posts/thefourth/</guid><pubDate>Invalid Date</pubDate><content:encoded></content:encoded></item></channel></rss>

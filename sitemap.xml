@@ -4,13 +4,21 @@
 <url> <loc>https://alice4xx.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://alice4xx.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://alice4xx.github.io/pages/contacts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://alice4xx.github.io/posts/thethird/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://alice4xx.github.io/posts/thefourth/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://alice4xx.github.io/posts/thefifth/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://alice4xx.github.io/posts/thefirst/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://alice4xx.github.io/posts/thesecond/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://alice4xx.github.io/posts/thethird/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://alice4xx.github.io/tag/css</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://alice4xx.github.io/tag/css/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://alice4xx.github.io/tag/html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://alice4xx.github.io/tag/html/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://alice4xx.github.io/tag/javascript</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://alice4xx.github.io/tag/javascript/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://alice4xx.github.io/tag/wecode</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://alice4xx.github.io/tag/wecode/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://alice4xx.github.io/category/we-code</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://alice4xx.github.io/category/we-code/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://alice4xx.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://alice4xx.github.io/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>

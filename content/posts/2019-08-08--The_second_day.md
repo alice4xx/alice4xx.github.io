@@ -15,60 +15,45 @@ description: "휴"
 
 아니 나라는 사람은 이 얼마나 안일한가.. 
 
-![sad.jpg](/media/sad.jpg)
+이렇게 무지하게 이 세계에 뛰어들다니.. 세상 막막....;)
+
+![sadpepe.jpg](/media/sadpepe.jpg)
 
 
-##[css] ; HYPERTEXT MARK UP LANGUAGE.
 
-웹페이지를 만들기 위한 언어. 
+##[HTML] Attributes(속성)
+=>속성은 사용자가 원하는 기준에 맞도록 요소를 설정 혹은 다양한 방식으로 요소의 동작을 조절하기 위한 값.
+예를 들면, 
 
-웹페이지의 구조이자 구성요소, 그리고 확장자 명(.html)입니다.
-
-브라우저는 HTML파일을 가지고 뭘 어떻게 그려주면 되는지 파악한 후에 웹 페이지를 생성..
-
-큰 틀로, 아래처럼 구성 (꼭 머리 가슴 배st)
-
-*html 파일의 구조는 항상 아래와 같습니다.*
 
 ```
-<!DOCTYPE html>
-==>HTML 파일이라면 제일 첫 줄에 위치하여 html version.이 몇인지 알려주는 역할.(tag아님!)
+<a href="https://wecode.com">위코드로 이동</a>
+```
+a ; tag// href ; attribute(속성) // https://wecode.com 는 href에 대한 attribute 값이고  "위코드로 이동"은 본문(내용).
 
-<html>
-==>해당 tag만나면 html의 시작을 인지하고 요소를 그릴 준비를 함
+!중요 속성!
 
- <head>
-==> html태그 다음에는 항상 head태그.
-가령, 한글을 사용한다던가 화면에 적절한 비율로 이쁘게 보이게 한다던가 브라우져 탭에 제목을 넣는다는 등.. 
-
- <body>
-==> 화면에 보여져야할, 보여지고 싶은 레이아웃대로 각종 태그들을 사용하는 부분.
-tag는 <태그> 본문 </태그>로 구분
-tag마다 고유 기능이 있고 콘텐츠 내용과 상황에 맞게 적절하게 붙여주어야...
-
-
- </body>
-
- </head>
-
- </html>
+★id★ 
+=>태그에 이름 부여함. 말 그대로 id라고 보면 됨. 하기 예시에 나오는 "prifile"은 적어도 해당 페이지 내에서는
+절대 사용할 수 없음.....
+그래서 매우 특정 요소에만 무언가를 적용할때만 사용 가능함.
+```
+<div id="profile">
+```
+★★class★★ one pick:)
+class
+=>얘도 태그에 이름을 부여하지만 중복이 가능! 한번에 여러개 적용할 때 사용 가능..
+```
+<div class="content-wrap"></div>
+<p> class="content-wrap"></p>
 ```
 
-tag + 속성(attribute) ==> 1tag에 여러개 붙임 가능
+속성 추가하기
+하나의 태그에 2개 이상의 속성을 부여할 수 있음.
+만약, 여러 속성을 주고 싶으면 한칸 띄워서 추가 가능. 속성의 순서는 상관없이 막 써도 됨.
+ ``` 
+<div id="profile" class="content-wrap"></div>
+<img src="./hi.png" alt="내사진" >
+```
 
-가령, 
 
-```
-<div class 혹은 id 혹은 href 혹은 src="OOO"></div>
-```
-
-!중요tag!
-```
-<a> => 클릭하면 화면이동. 링크등을 써주어서 이동 할때.
-<p> => short for 'p'(aragraph). 문단. 줄바꿈 가능!
-<h1~h5> => 숫자가 커질수록 크기는 작아짐
-<header>
-<footer> 
-< div> ★★one pick★★ 수준 ¯ࡇ¯ 
-=> short for 'd'(ivision). 말 그대로 디비젼별로 묶음, 레이아웃 분리가능, 그리고 각 div마다 class나 id라는 속성 부여해서 css로 꾸밀수 있!
-```

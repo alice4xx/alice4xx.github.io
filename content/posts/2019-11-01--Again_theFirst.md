@@ -1,13 +1,13 @@
 ---
-title: The day 1.
-date: "2019-11-01T22:40:32.169Z"
-template: "post"
+title: WeCode!
+date: “2019-11-01T10:20:00.169Z”
+template: “post”
 draft: false
-slug: "/posts/thefirst/"
-category: "WeCode!"
+slug: “/posts/001”
+category: “wecode”
+description: “”
 tags:
-  - "wecode!"
-description: "Wecode"
+  - “wecode”
 ---
 
 잘 다니던 섬유 업계를 별안간 박차고 나와 ,

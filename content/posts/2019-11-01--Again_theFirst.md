@@ -1,5 +1,5 @@
 ---
-title: WeCode!
+title: "WeCode"
 date: “2019-11-11T10:20:00.169Z”
 template: “post”
 draft: false

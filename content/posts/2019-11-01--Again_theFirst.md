@@ -1,16 +1,17 @@
 ---
-title: "WeCode"
-date: “2019-11-11T10:20:00.169Z”
-template: “post”
+title: "HTML, CSS"
+date: "2019-07-29T20:40:32.169Z"
+template: "post"
 draft: false
-slug: “/posts/001”
-category: “wecode”
-description: “”
+slug: "/posts/til-01-html-css/"
+category: "html"
 tags:
-  - “wecode”
+  - "html"
+  - "css"
+description: "HTML, CSS의 이론에 대한 간단한 정리."
 ---
 
-잘 다니던 섬유 업계를 별안간 박차고 나와 ,
+잘 다니던 섬유 업계를 별안간 박차고 나와,
 2019년 7월 31일부터 WeCode 부트캠프에 들어오게 되어 하드코어한 3개월을 보내고
 10월 25일부로 수료하게 되었습니다.
 

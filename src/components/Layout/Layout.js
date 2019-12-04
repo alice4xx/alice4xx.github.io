@@ -19,6 +19,7 @@ const Layout = ({ children, title, description }: Props) => (
       <meta property="og:site_name" content={title} />
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:title" content={title} />
+      <meta name="google-site-verification" content="4AlVv466-iD-bD4SI-PeUDBL937bsn9hemtUVNG_Mbs" />
     </Helmet>
     {children}
   </div>

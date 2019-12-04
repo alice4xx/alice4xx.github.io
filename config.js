@@ -1,13 +1,12 @@
 'use strict';
 
 module.exports = {
-  url: 'https://alice4xx.github.io',
-  pathPrefix: '/',
-  title: 'Blog by Kyoi',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
+  url: 'https://alice4xx.github.io/',
+  title: 'Taylor.log()',
+  subtitle: 'Taylor.log()',
+  copyright: '',
+  disqusShortname: 'Taylor',
+  postsPerPage: 8,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
@@ -18,23 +17,22 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
+    /*
+    ,
+    {
+      label: "Contact me",
+      path: "/pages/contacts"
+    }
+    */
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Taylor Lee',
+    photo: '/profile.png',
+    bio: 'Front-end Developer',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'aliceaprilx@gmail.com',
+      github: '/alice4xx'
     }
   }
 };

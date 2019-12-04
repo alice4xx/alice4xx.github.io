@@ -1,8 +1,8 @@
-@import '../../../assets/scss/variables';
-@import '../../../assets/scss/mixins';
+@import "../../../assets/scss/variables";
+@import "../../../assets/scss/mixins";
 
 .tags {
-  @include margin-bottom(.5);
+  @include margin-bottom(0.5);
 
   &__list {
     list-style: none;
@@ -27,11 +27,22 @@
         &:focus {
           color: $color-primary;
         }
-
       }
-
     }
-
   }
+}
 
+.tags_insidebar {
+  &__list {
+    &-item {
+      margin: 5px 0;
+
+      &-link {
+        padding: 0 12px;
+        font-size: 12px;
+        line-height: 25px;
+        height: 25px;
+      }
+    }
+  }
 }

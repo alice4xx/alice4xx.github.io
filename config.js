@@ -27,7 +27,7 @@ module.exports = {
     */
   ],
   author: {
-    name: 'Taylor Lee',
+    name: 'Taylor JinKyung Lee',
     photo: '/profile.png',
     bio: 'Front-end Developer',
     contacts: {

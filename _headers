@@ -9,7 +9,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /styles.7248f23be495d03af8ee.css
   Cache-Control: public, max-age=31536000, immutable
-/styles-30289d163dcbecf49ecb.js
+/styles-7cc220b8c5c32a3635c6.js
   Cache-Control: public, max-age=31536000, immutable
 /1-d377044430ac0404c8fb.js
   Cache-Control: public, max-age=31536000, immutable
@@ -21,11 +21,11 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-categories-list-template-js-50590f702849ee01faeb.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-page-template-js-03cbb69cd4b5c4b90037.js
-  Cache-Control: public, max-age=31536000, immutable
 /2-51c8f79abc9c99314422.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-template-js-161de330666377442547.js
+/component---src-templates-post-template-js-c5b9dbb53b875c54b8a6.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-page-template-js-69584908c3b1e8db8e31.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-tag-template-js-d7158d096e7a74bcb229.js
   Cache-Control: public, max-age=31536000, immutable
@@ -35,156 +35,156 @@
   Cache-Control: public, max-age=31536000, immutable
 /undefined
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-28ebcee44ebac58db063.js
+/webpack-runtime-925b9211844039e1dbb8.js
   Cache-Control: public, max-age=31536000, immutable
-/app-ee9655ba695dbd394eaa.js
+/app-8bd3283f5f6b459d78aa.js
   Cache-Control: public, max-age=31536000, immutable
 /static/*
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
 /offline-plugin-app-shell-fallback/
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
   Link: </component---node-modules-gatsby-plugin-offline-app-shell-js-5d948c11401230828044.js>; rel=preload; as=script
 /404
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </component---src-templates-not-found-template-js-4d192759c89cf0cc5b99.js>; rel=preload; as=script
 /tags
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </3-ab486ee8f7182f95692a.js>; rel=preload; as=script
   Link: </component---src-templates-tags-list-template-js-d244d2735a31098c54cb.js>; rel=preload; as=script
 /categories
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </3-ab486ee8f7182f95692a.js>; rel=preload; as=script
   Link: </component---src-templates-categories-list-template-js-50590f702849ee01faeb.js>; rel=preload; as=script
 /404.html
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </component---src-templates-not-found-template-js-4d192759c89cf0cc5b99.js>; rel=preload; as=script
-/pages/about/
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-03cbb69cd4b5c4b90037.js>; rel=preload; as=script
-/pages/contacts/
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
-  Link: </component---src-templates-page-template-js-03cbb69cd4b5c4b90037.js>; rel=preload; as=script
 /posts/ti-01-start/
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-161de330666377442547.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-c5b9dbb53b875c54b8a6.js>; rel=preload; as=script
 /posts/ti-02-html-css/
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-161de330666377442547.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-c5b9dbb53b875c54b8a6.js>; rel=preload; as=script
+/pages/about/
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-69584908c3b1e8db8e31.js>; rel=preload; as=script
+/pages/contacts/
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
+  Link: </component---src-templates-page-template-js-69584908c3b1e8db8e31.js>; rel=preload; as=script
 /posts/ti-03-html-css/
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-161de330666377442547.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-c5b9dbb53b875c54b8a6.js>; rel=preload; as=script
 /posts/ti-04-html-css/
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-161de330666377442547.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-c5b9dbb53b875c54b8a6.js>; rel=preload; as=script
 /posts/ti-05-html-css/
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-161de330666377442547.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-c5b9dbb53b875c54b8a6.js>; rel=preload; as=script
 /posts/ti-06-html-css/
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-161de330666377442547.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-c5b9dbb53b875c54b8a6.js>; rel=preload; as=script
 /tag/css
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-d7158d096e7a74bcb229.js>; rel=preload; as=script
 /tag/html
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-d7158d096e7a74bcb229.js>; rel=preload; as=script
 /tag/javascript
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-d7158d096e7a74bcb229.js>; rel=preload; as=script
 /tag/wecode
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
   Link: </component---src-templates-tag-template-js-d7158d096e7a74bcb229.js>; rel=preload; as=script
 /category/wecode
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
   Link: </component---src-templates-category-template-js-f5af56728b4565787f4f.js>; rel=preload; as=script
 /
-  Link: </webpack-runtime-28ebcee44ebac58db063.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
-  Link: </app-ee9655ba695dbd394eaa.js>; rel=preload; as=script
-  Link: </styles-30289d163dcbecf49ecb.js>; rel=preload; as=script
+  Link: </webpack-runtime-925b9211844039e1dbb8.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
+  Link: </app-8bd3283f5f6b459d78aa.js>; rel=preload; as=script
+  Link: </styles-7cc220b8c5c32a3635c6.js>; rel=preload; as=script
   Link: </1-d377044430ac0404c8fb.js>; rel=preload; as=script
   Link: </2-51c8f79abc9c99314422.js>; rel=preload; as=script
   Link: </component---src-templates-index-template-js-805bd3dad3437b2118c0.js>; rel=preload; as=script

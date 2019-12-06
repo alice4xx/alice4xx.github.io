@@ -68,6 +68,6 @@ Q : 위코드를 선택한 이유는?</h4>
 이 사람들이랑 공부했기 때문에 지금까지 버티고 올 수 있었다고 생각한다. 같이 해줘서 정말 너무 고마웠고 그 때로 다시 돌아가도 지금 기수의 사람들과 하고 싶다.
 
 <figure>
-<img src="/media/2ndprojectfinish.jpg" alt="wecode3기">
+<img src="/media/2ndprojectfinish.png" alt="wecode3기">
 <figcaption> 위코드 3기 2019. 7. 29 - 2019. 10. 25 </figcaption>
 </figure>
